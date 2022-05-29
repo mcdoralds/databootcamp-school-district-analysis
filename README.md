@@ -55,4 +55,5 @@ A deeper look suggests that the issue is not the budget, but perhaps a staffing 
    - The failure rate of the lowest performing schools seem to skew heavily towards the mathematic scores, which further highlights the possible need to reformation of the math department for district schools.
 
 3. Average reading & math scores appear to be consistent across grades, which shows the importance of school's overall availability of resources, help, and learning plan rather than focusing analysis on a particular grade or sub-group.
+
 ![image](https://user-images.githubusercontent.com/31219195/170851095-a1a43b77-e564-43f9-b416-c34ca0adb984.png)
